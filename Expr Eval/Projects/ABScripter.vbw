@@ -1,0 +1,12 @@
+modLangConstants = 198, 198, 608, 643, C
+modLexMeths = 220, 220, 630, 665, C
+modLexStructs = 22, 22, 432, 467, C
+modSemStructs = 132, 132, 542, 577, C
+modSemCodeMeths = 176, 176, 586, 621, C
+modSemExpressions = 132, 132, 659, 629, C
+modInterpret = 132, 132, 659, 629, C
+modSemConsts = 220, 220, 747, 717, C
+modMain = 132, 132, 666, 629, C
+modCommonMeths = 110, 110, 644, 607, C
+modDerivedMath = 88, 88, 618, 585, C
+frmMain = 220, 220, 748, 717, Z, 198, 198, 726, 695, C
